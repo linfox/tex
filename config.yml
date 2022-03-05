@@ -43,11 +43,11 @@ content:
         - name: 中国纺织网
           description: 中国纺织网
           url: http://www.texnet.com.cn/
-        - name: Behance
-          description: Adobe旗下的设计师交流平台，来自世界各地的设计师在这里分享自己的作品。
-          url: https://behance.net/
-        - name: UI中国
-          description: 图形交互与界面设计交流、作品展示、学习平台。
+        - name: 百布
+          description: 百布
+          url: https://www.ibaibu.com/
+        - name: yandex
+          description: 换个搜索引擎，也许有意外发现
           url: http://www.ui.cn/
         
     - name: 界面灵感
