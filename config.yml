@@ -49,6 +49,30 @@ content:
         - name: yandex
           description: 换个搜索引擎，也许有意外发现
           url: http://www.ui.cn/
+        - name: 
+          description: 
+          url: 
+        - name: 全球纺织网
+          description: 
+          url: https://www.tnc.com.cn/
+        - name: 网上轻纺城
+          description: 
+          url: https://www.qfc.cn/
+        - name: 
+          description: 
+          url: 
+        - name: 
+          description: 
+          url: 
+        - name: 
+          description: 
+          url: 
+        - name: 
+          description: 
+          url: 
+        - name: 
+          description: 
+          url: 
         
     - name: 界面灵感
       sites:
